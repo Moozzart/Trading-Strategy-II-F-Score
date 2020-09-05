@@ -1,4 +1,4 @@
-# Trading-Strategy---II---F-Score
+# Trading-Strategy-II-Fscore
 F score trading strategy is based on the premise of taking into account of the several accounting parameters like ROA, accruals, CFO etc. In total there are  points to score  
 
 ## The 9 metrics are as follows
